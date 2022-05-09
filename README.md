@@ -1,4 +1,4 @@
-# Controle de Finanças
+# Controle Financeiro
 
 ![enter image description here](https://raw.githubusercontent.com/pedro-marqes/controle-financeiro/master/images/controle-financeiro-print.png)
 
